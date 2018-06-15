@@ -1,0 +1,2 @@
+# kafkapp
+Scala kafka app
